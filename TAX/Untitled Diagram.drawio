@@ -1,0 +1,243 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.5">
+  <diagram name="Page-1" id="70VubQz8PiiUcmZH2TwT">
+    <mxGraphModel dx="1056" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-1" target="ev8iW3Oq5IMZ9UNw2ke2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-1" target="ev8iW3Oq5IMZ9UNw2ke2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-1" target="ev8iW3Oq5IMZ9UNw2ke2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-1" value="1. Income" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-2" target="ev8iW3Oq5IMZ9UNw2ke2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-2" value="Schedule D" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-3" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Case I, Self-Employed Trading Income&lt;/li&gt;&lt;li&gt;Case II, Self-Employed Professional Trading Income&lt;/li&gt;&lt;li&gt;Case III, Foreign Income (Interest, dividends, rental)&lt;/li&gt;&lt;li&gt;Case IV, Irish Deposit Interest&lt;/li&gt;&lt;li&gt;Case V, Irish Rental Income&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-6" value="Schedule E – Employment Income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="150" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-7" value="Schedule F – Irish Dividend Income" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-10" target="ev8iW3Oq5IMZ9UNw2ke2-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="490" />
+              <mxPoint x="230" y="678" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-10" target="ev8iW3Oq5IMZ9UNw2ke2-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="490" />
+              <mxPoint x="230" y="765" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-10" target="ev8iW3Oq5IMZ9UNw2ke2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-10" target="ev8iW3Oq5IMZ9UNw2ke2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-10" value="&lt;div&gt;2.&amp;nbsp;Tax Rates &amp;amp; Bands&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-11" value="&lt;div&gt;Single Person, 44,000, 20%&lt;/div&gt;&lt;div&gt;&amp;nbsp;, Balance, 40%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="390" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-12" value="Single Parent, 48,000, 20%&lt;div&gt;&amp;nbsp;, Balance, 40%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="520" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-13" value="88,000, 20%&lt;div&gt;&amp;nbsp;, Balance, 40%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="630" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-15" value="Married Couple Jointly&lt;br&gt;assessed (Two Incomes)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="630" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-16" value="53,000, 20%&lt;div&gt;&amp;nbsp;, Balance, 40%&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="740" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-18" value="Married Couple Jointly&lt;br&gt;assessed (One Income)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="723" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-21" value="3. Computation of Income Tax Liability" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="870" width="370" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-22" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font&gt;Income&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="10" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-23" value="Gross Income" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="60" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-24" value="Less : Charges&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="90" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-25" value="Total Income" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-26" value="Less : Tax Reliefs @ Marginal Rate&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="150" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-27" value="Taxable Income&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-28" value="&lt;h3&gt;Calculate Tax:&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="27" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-29" value="Standard Rate band @ 20%&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="27" y="230" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-30" value="Balance @ 40%&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="32" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-31" value="Total Tax" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-32" value="&lt;h3&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Less Tax Credits:&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="32" y="295" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-33" value="Non-refundable Tax Credits&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="30" y="330" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-34" value="&lt;h4&gt;Refundable Tax Credits&amp;nbsp;&lt;/h4&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry x="25" y="355" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="370" as="sourcePoint" />
+            <mxPoint x="280" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="41" y="310" as="sourcePoint" />
+            <mxPoint x="281" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="ev8iW3Oq5IMZ9UNw2ke2-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="210" as="sourcePoint" />
+            <mxPoint x="280" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-38" target="ev8iW3Oq5IMZ9UNw2ke2-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-38" value="&lt;div&gt;4. Age Exemption&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-39" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div&gt;Persons 66 or older&lt;/div&gt;&lt;/li&gt;&lt;li&gt;Single person is exempt from Income Tax if their total income is less than €18,000&lt;/li&gt;&lt;li&gt;Married couple are exempt from Income Tax if their total&lt;br&gt;income is less than €36,000 (Only one spouse needs to be 66or older)&lt;/li&gt;&lt;li&gt;Marginal relief is available where: Either spouse is over 65 and,Total income is less than twice the exemption limit.&lt;/li&gt;&lt;li&gt;Income Tax payable is restricted to, (Total Income - Exemption Limit) x higher rate&lt;/li&gt;&lt;li&gt;Marginal Relief will only be given to you where it is more&lt;br&gt;beneficial than using your tax credits&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1440" width="470" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-41" target="ev8iW3Oq5IMZ9UNw2ke2-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="2060" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-41" target="ev8iW3Oq5IMZ9UNw2ke2-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-41" target="ev8iW3Oq5IMZ9UNw2ke2-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-41" target="ev8iW3Oq5IMZ9UNw2ke2-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="2225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-41" value="5. Rental Relief" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-42" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Rental income up to €14,000 from letting out room(s) in ownhome is exempt&lt;/li&gt;&lt;li&gt;This income is also not liable to USC or PRSI&lt;/li&gt;&lt;li&gt;If this income exceeds €14,000 =&amp;gt; Entire amount taxable&lt;/li&gt;&lt;li&gt;Individual must still file a tax return and declare this income&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1710" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-43" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;The limit of €14,000 is in respect of the house/apartment&lt;/li&gt;&lt;li&gt;Relief does apply to shorter-term residential accommodation&lt;br&gt;such as accommodation for full- or part-time students&lt;br&gt;(including language students)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1850" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-44" value="Relief will NOT apply where:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="2018" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-45" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;div&gt;The income is from the provision of accommodation to occasional&lt;br&gt;&lt;/div&gt;&lt;div&gt;visitors for “short periods” (&amp;lt; 28 consecutive days, Airbnb)&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;The room is rented to a child or spouse&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div&gt;Individual receiving the rent is employee of person making the payment&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2030" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-49" value="&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;Income from providing childcare services in own home up to €15,000 is exempt,&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;No deduction for expenses in calculating income for this limit&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;&lt;div align=&quot;left&quot;&gt;No more than 3 children at a time&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;This income is also not liable to USC,&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;But it is subject to PRSI&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;If this income exceeds €15,000 =&amp;gt; Entire amount taxable&lt;/li&gt;&lt;li&gt;Individual must still file a tax return and declare this income&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;ul&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2140" width="470" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-50" value="Provision of Childcare Services" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="2178" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="2480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-54" value="6. Artists’ Exemption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-55" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;First €50,000 of profits or gains earned from the sale of theirwork is exempt&lt;/li&gt;&lt;li&gt;This is income is only exempt from Income Tax, subject to BOTH USC and PRSI&lt;/li&gt;&lt;li&gt;A “Work” must be both original and creative and have&amp;nbsp;cultural/artistic meri&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2450" width="485" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-57" target="ev8iW3Oq5IMZ9UNw2ke2-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-57" target="ev8iW3Oq5IMZ9UNw2ke2-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-57" value="&lt;div&gt;7. Charges&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-58" value="Patent Royalties" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-59" target="ev8iW3Oq5IMZ9UNw2ke2-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-59" value="&lt;div&gt;Deed of Covenant&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="2900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-62" target="ev8iW3Oq5IMZ9UNw2ke2-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-62" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Payment to permanently incapacitated person (Not a child), No restriction&lt;/li&gt;&lt;li&gt;Payment to persons over 65, Restricted to 5% of Gross Income&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2900" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-64" value="&lt;div&gt;To qualify as a charge,&amp;nbsp;&lt;/div&gt;&lt;div&gt;covenant must be for minimum 7 years&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="2910" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-65" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Must deduct standard rate tax (20%) and pay to Revenue&lt;/li&gt;&lt;ol&gt;&lt;li&gt;This is added to their own Income Tax liability&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Pays the net amount (80%) to recipient&lt;/li&gt;&lt;li&gt;Deducts the Gross amount (100%) as a charge&lt;/li&gt;&lt;ol&gt;&lt;li&gt;NB – Restricted to 5% of gross income if paid to person &amp;gt;65&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2820" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-66" value="Payer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="2835" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ev8iW3Oq5IMZ9UNw2ke2-62" target="ev8iW3Oq5IMZ9UNw2ke2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-68" value="Recipient" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="3010" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ev8iW3Oq5IMZ9UNw2ke2-69" value="&lt;ul&gt;&lt;li&gt;Taxed on Gross amount (100%) under Schedule D Case IV&lt;/li&gt;&lt;li&gt;Claim refundable tax credit for 20% deducted at source (i.e. tax already paid)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2998" width="360" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
